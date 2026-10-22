@@ -14,4 +14,6 @@ public class Cocinero extends Empleado{
     public void presentarse(){
         System.out.println("Hola, soy : " + this.nombre + " y mi RFC es : " + this.rfc);
     }
+    //FIN
+
 }

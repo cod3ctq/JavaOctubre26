@@ -6,6 +6,6 @@ public class EjecutivoVentas extends Empleado {
         System.out.println("Vender");
         System.out.println("Contactar proveedores");
     }
-
+    //FIN
 
 }

@@ -77,5 +77,5 @@ public class ReservaHotel extends Reservacion{
         System.out.println("Se reservó [" + noches + "] noches");
         System.out.println("Precio : $" + String.format("%.2f", calculaPrecio()));
     };
-
+    //FIN
 }
